@@ -25,3 +25,6 @@ This project involves the design and implementation of a custom **bare-metal pro
 - **C** (Test applications and driver logic)
 - **Linux Kernel Development** (PROCFS communication layer)
 - **SoC Architecture & Bare-Metal Programming**
+
+## Issues
+Project has a few issues in `main.c` file (mainly overuse of sleep() methods) and no full support for scientific notation.
